@@ -1,0 +1,28 @@
+
+Weather Stats for - KOCHI  || 22 Jun 2021 | 09:43:24 PM
+Current Temperature	: 26.99 deg C
+Current Weather Desc	: overcast clouds
+Current Humidity	: 87%
+Current Wind Speed	: 4.33 kmph
+Current Pressure	: 1010 hPa
+
+Weather Stats for - KOCHI  || 22 Jun 2021 | 09:43:45 PM
+Current Temperature	: 26.99 deg C
+Current Weather Desc	: overcast clouds
+Current Humidity	: 87%
+Current Wind Speed	: 4.33 kmph
+Current Pressure	: 1010 hPa
+
+Weather Stats for - KOCHI  || 22 Jun 2021 | 09:44:51 PM
+Current Temperature	: 26.99 deg C
+Current Weather Desc	: moderate rain
+Current Humidity	: 87%
+Current Wind Speed	: 4.33 kmph
+Current Pressure	: 1010 hPa
+
+Weather Stats for - KOTTAYAM  || 22 Jun 2021 | 09:55:18 PM
+Current Temperature	: 27.01 deg C
+Current Weather Desc	: overcast clouds
+Current Humidity	: 93%
+Current Wind Speed	: 1.52 kmph
+Current Pressure	: 1011 hPa
